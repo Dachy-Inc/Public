@@ -1,0 +1,1 @@
+This includes resources like documentation, media, code snippets, and other assets that can be shared with external users, stakeholders, or the wider community. It serves as the open-facing repository for materials that are intended for public use or distribution.
